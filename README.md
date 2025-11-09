@@ -47,8 +47,8 @@ Solution générale : x = -4 + 5t , y = 8 - 3t , avec t ∈ ℤ
 
  📚 Réalisé par
 
-👩‍💻 **Loubna Aberki**
-Étudiante en **S3 Qualité Industrielle** à l’**EST Kénitra**
+👩‍💻 Loubna Aberki
+Étudiante en S3 Qualité Industrielle à l’EST Kénitra
 
 📅 Projet réalisé dans le cadre du module des mathématiques.
 
